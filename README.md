@@ -1,4 +1,4 @@
-# IEFallback 利用浏览器特性  Internet Explorer 8 及更早 IE 浏览器版本不支持 addEventListener() 
+# IEFallback 利用浏览器特性  Internet Explorer 8 及更早 IE 浏览器版本不支持 [addEventListener() ](http://www.runoob.com/jsref/event-oncontextmenu.html)
 
 1. Copy content of ief.min.js to your project.
 2. Copy Sass partial file jef.scss to your project or content of ief.css to your project.
@@ -7,7 +7,7 @@
 
 # 别的网址处理方式
 
-## ie下打开 taobao.com 调试到ie7 显示
+## ie下打开 taobao.com 调试到ie7 查看淘宝处理方式
 
 ## http://www.seedweet.com/ 利用条件Hack
 ```html
